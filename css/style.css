@@ -1,0 +1,17 @@
+.cat-img {
+  width: 50%;
+  border-radius: 50px;
+}
+
+#left-pane, #right-pane{
+  width: 45%;
+  margin: 0 auto;
+}
+
+#left-pane {
+  float: left;
+}
+
+#right-pane {
+  float: right;
+}
